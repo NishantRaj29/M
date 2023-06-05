@@ -1,6 +1,6 @@
 # Music-Genre-Classification
 
-This was made as a part of Machine Learning course at IIIT,Delhi. [Link to blog](https://medium.com/@ashitaboyina/music-genre-classification-70ae70469403)
+
 
 ## Dataset Description
 We are using the __GTZAN__ dataset which contains a total of 1000 audio files in .wav format divided into 10 genres. Each genre has 100 songs of 30-sec duration. Along with the audio files, 2 CSV files containing features of the audio files. The files contain mean and variance calculated over multiple features that can be obtained from an audio file. The other file has the same composition, but the songs were divided into 3-second audio files. 
